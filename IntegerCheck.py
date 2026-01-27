@@ -13,4 +13,4 @@ if x % 2 == 0:
 else:
     print('')
     print('Odd')
-print('Done with condisional')
+print('Done with conditional')
